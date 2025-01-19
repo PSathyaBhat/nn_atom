@@ -1,2 +1,2 @@
-# nn_atom
+# Neautal network Atom
 A tiny library to learn NN basics
